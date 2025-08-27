@@ -58,7 +58,7 @@ for match in data:
             match_name = f"{formatted_time} - {match['title']} [{source_name}] - ({formatted_date})"
             m3u8_content += f'#EXTINF:-1 tvg-name="{match["title"]}" tvg-logo="{poster}" group-title="{category_formatted}",{match_name}\n'
 
-        m3u8_content += f'https://rr.buytommy.top/secure/GrYrzMUODC/{source_name}/stream/{id_}/1/playlist.m3u8\n'
+        m3u8_content += f'https://rr.vipstreams.in/{source_name}/stream/{id_}/1/playlist.m3u8\n'
 
 with open('streamed.m3u8', 'w', encoding='utf-8') as f:
     f.write(m3u8_content)
