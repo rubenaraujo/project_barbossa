@@ -1,5 +1,151 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Russia - Russian Cup: Baltika vs CSKA Moskva" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:45 PM - Russia - Russian Cup: Baltika vs CSKA Moskva [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/russia-russian-cup-baltika-vs-cska-moskva/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltika Kaliningrad vs CSKA Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Baltika Kaliningrad vs CSKA Moscow [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/baltika-vs-cska-moscow/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltika Kaliningrad vs CSKA Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Baltika Kaliningrad vs CSKA Moscow [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756316700000-baltika-cska-moscow/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltika Kaliningrad vs CSKA Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Baltika Kaliningrad vs CSKA Moscow [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/baltika-cska-moscow/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rostov vs Dynamo Makhachkala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Rostov vs Dynamo Makhachkala [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fk-rostov-vs-dynamo-makhachkala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rostov vs Dynamo Makhachkala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Rostov vs Dynamo Makhachkala [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756316700000-fk-rostov-dynamo-makhachkala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rostov vs Dynamo Makhachkala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Rostov vs Dynamo Makhachkala [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/russia-russian-cup-rostov-vs-dynamo-makhachkala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rostov vs Dynamo Makhachkala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Rostov vs Dynamo Makhachkala [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/fk-rostov-dynamo-makhachkala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Moyuka Uchijima - Barbora Krejcikova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Moyuka Uchijima - Barbora Krejcikova [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/moyuka-uchijima-barbora-krejcikova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cristina Bucsa - Alexandra Eala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Cristina Bucsa - Alexandra Eala [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/cristina-bucsa-alexandra-eala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cameron Norrie - Francisco Comesana" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Cameron Norrie - Francisco Comesana [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/cameron-norrie-francisco-comesana/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Benjamin Bonzi - David Giron" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Benjamin Bonzi - David Giron [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/benjamin-bonzi-david-giron/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden Arrows vs Magesi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 PM - Golden Arrows vs Magesi [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/golden-arrows-vs-magesi-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden Arrows vs Magesi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 PM - Golden Arrows vs Magesi [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/golden-arrows-magesi/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sekhukhune United vs Amazulu" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiE28UpEHxAapICCBQHN5o1oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football",06:30 PM - Sekhukhune United vs Amazulu [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/sekhukhune-united-vs-amazulu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sekhukhune United vs Amazulu" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiE28UpEHxAapICCBQHN5o1oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football",06:30 PM - Sekhukhune United vs Amazulu [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/sekhukhune-amazulu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kaizer Chiefs vs Mamelodi Sundowns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQIYAAY6YbdqkgIIFFp1XTtgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football",06:30 PM - Kaizer Chiefs vs Mamelodi Sundowns [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/kaizer-chiefs-vs-mamelodi-sundowns/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kaizer Chiefs vs Mamelodi Sundowns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQIYAAY6YbdqkgIIFFp1XTtgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football",06:30 PM - Kaizer Chiefs vs Mamelodi Sundowns [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/south-africa-dstv-premiership-kaizer-chiefs-vs-mamelodi-sundowns/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kaizer Chiefs vs Mamelodi Sundowns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQIYAAY6YbdqkgIIFFp1XTtgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football",06:30 PM - Kaizer Chiefs vs Mamelodi Sundowns [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/kaizer-chiefs-mamelodi-sundowns/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/trent-rockets-w-vs-birmingham-phoenix-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Charlie] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/trent-rockets-vs-birmingham-phoenix-1629454714/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/the-hundred-women-trent-rockets-w-vs-birmingham-phoenix-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/trent-rockets-birmingham-phoenix/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/sweden-vs-finland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756315800000-sweden-finland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Charlie] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/sweden-vs-finland-1629458170/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/sweden-vs-finland-basketball-446190/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/eurobasket-sweden-vs-finland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/sweden-finland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="E.Khoeblal/D.Wassermann - R.Koenders/T.Schrier" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:17 PM - E.Khoeblal/D.Wassermann - R.Koenders/T.Schrier [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/e-khoeblal-d-wassermann-r-koenders-t-schrier/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Louis Armstrong: Lloyd Harris vs Taylor Fritz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Louis Armstrong: Lloyd Harris vs Taylor Fritz [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/louis-armstrong-lloyd-harris-vs-taylor-fritz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Louis Armstrong: Lloyd Harris vs Taylor Fritz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Louis Armstrong: Lloyd Harris vs Taylor Fritz [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-us-open-louis-armstrong-stadium-harris-fritz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Louis Armstrong: Lloyd Harris vs Taylor Fritz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Louis Armstrong: Lloyd Harris vs Taylor Fritz [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/lloyd-george-harris-taylor-harry-fritz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 11: Benjamin Bonzi vs Marcos Giron" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Court 11: Benjamin Bonzi vs Marcos Giron [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-11-benjamin-bonzi-vs-marcos-giron/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Admin] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-tampa-bay-rays-vs-cleveland-guardians/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/cleveland-guardians-vs-tampa-bay-rays/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314600000-tampa-bay-rays-vs-cleveland-guardians/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Charlie] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/tampa-bay-rays-vs-cleveland-guardians-1629458169/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Delta] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_guardians-rays-live-streaming-962915121/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/cleveland-guardians-vs-tampa-bay-rays-baseball-165276/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Foxtrot] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9350/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Golf] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-tampa-bay-rays-at-cleveland-guardians/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/mlb-cleveland-guardians-vs-tampa-bay-rays/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/tampa-bay-rays-vs-cleveland-guardians/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Admin] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-atlanta-braves-vs-miami-marlins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/miami-marlins-vs-atlanta-braves/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314600000-atlanta-braves-vs-miami-marlins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Charlie] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/atlanta-braves-vs-miami-marlins-1629458168/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Delta] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_marlins-braves-live-streaming-962916120/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/miami-marlins-vs-atlanta-braves-baseball-165273/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Foxtrot] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9353/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Golf] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-atlanta-braves-at-miami-marlins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/mlb-miami-marlins-vs-atlanta-braves/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/atlanta-braves-vs-miami-marlins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7: Cristina Bucsa vs Alexandra Eala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:05 PM - Court 7: Cristina Bucsa vs Alexandra Eala [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-7-cristina-buc-a-vs-alexandra-eala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Admin] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-washington-nationals-vs-new-york-yankees/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/new-york-yankees-vs-washington-nationals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314300000-washington-nationals-vs-new-york-yankees/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Charlie] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/washington-nationals-vs-new-york-yankees-1629458167/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Delta] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_yankees-nationals-live-streaming-962914122/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/new-york-yankees-vs-washington-nationals-baseball-165280/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Foxtrot] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9355/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Golf] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-washington-nationals-at-new-york-yankees/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/mlb-new-york-yankees-vs-washington-nationals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/washington-nationals-vs-new-york-yankees/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gulf Giants - Desert Vipers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",06:00 PM - Gulf Giants - Desert Vipers [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/gulf-giants-desert-vipers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Santiago De La Fuente - Nicolas Bruna" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Santiago De La Fuente - Nicolas Bruna [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/santiago-de-la-fuente-nicolas-bruna/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Raphael Collignon - Casper Ruud" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Raphael Collignon - Casper Ruud [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/raphael-collignon-casper-ruud/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lucio Ratti - Samir Banerjee" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Lucio Ratti - Samir Banerjee [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/lucio-ratti-samir-banerjee/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Benjamim Bonzi - Marcos Giron" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Benjamim Bonzi - Marcos Giron [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/benjamim-bonzi-marcos-giron/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vllaznia vs Dinamo-BGU W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Vllaznia vs Dinamo-BGU W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/vllaznia-vs-dinamo-bgu-w-football-1405475/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hammarby vs Metalist 1925 W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Hammarby vs Metalist 1925 W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/hammarby-vs-metalist-1925-w-football-1429368/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hammarby vs Metalist 1925 W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Hammarby vs Metalist 1925 W [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/hammarby-w-metalist-1925-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 12 Uchijima - Krejcikova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - US Open vs Court 12 Uchijima - Krejcikova [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-us-open-court-12-uchijima-krejcikova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 11 Bonzi - Giron" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - US Open vs Court 11 Bonzi - Giron [Bravo] - (27/08/2025)
@@ -10,20 +156,34 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-us-open-cou
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-us-open-court-5-norrie-comesana/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AIK vs Pelicans" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Hockey",06:00 PM - AIK vs Pelicans [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-aik-pelicans/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Twente W vs Crvena zvezda W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Twente W vs Crvena zvezda W [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-twente-w-crvena-zvezda-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Twente W vs Crvena zvezda W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Twente W vs Crvena zvezda W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/twente-w-vs-crvena-zvezda-football-1405472/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Twente W vs Crvena zvezda W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Twente W vs Crvena zvezda W [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/twente-f-crvena-zvezda-f-/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Glasgow City W vs Austria Vienna W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Glasgow City W vs Austria Vienna W [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-glasgow-city-w-austria-vienna-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Glasgow City W vs Austria Vienna W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Glasgow City W vs Austria Vienna W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/glasgow-city-w-vs-austria-wien-w-football-1405480/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Glasgow City W vs Austria Vienna W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Glasgow City W vs Austria Vienna W [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/glasgow-city-f-austria-viena-f-/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Floridsdorfer AC vs Stripfing" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Floridsdorfer AC vs Stripfing [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-floridsdorfer-ac-stripfing/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saratoga Live" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 PM - Saratoga Live [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/saratoga-live/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Saratoga Live" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 PM - Saratoga Live [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/horse-racing-saratoga-live/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hannover-Burgdorf vs Gummersbach" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 PM - Hannover-Burgdorf vs Gummersbach [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/hannover-burgdorf-vs-gummersbach/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hannover-Burgdorf vs Gummersbach" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 PM - Hannover-Burgdorf vs Gummersbach [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/handball-bundesliga-hannover-burgdorf-vs-gummersbach/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 17: Raphael Collignon vs Casper Ruud" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Court 17: Raphael Collignon vs Casper Ruud [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-17-raphael-collignon-vs-casper-ruud/1/playlist.m3u8
-#EXTINF:-1 tvg-name="South Florida BullsEye Coaches Show" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Afl",06:00 PM - South Florida BullsEye Coaches Show [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/south-florida-bullseye-coaches-show/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FC Kalundborg vs Odense BK" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:00 PM - FC Kalundborg vs Odense BK [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-kalundborg-odense/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UEFA Conference League: Riga vs Sparta Praha" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",05:45 PM - UEFA Conference League: Riga vs Sparta Praha [Hotel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/uefa-conference-league-riga-vs-sparta-praha/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grandstand: Joao Fonseca vs Tomas Machac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",05:45 PM - Grandstand: Joao Fonseca vs Tomas Machac [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/grandstand-joao-fonseca-vs-tomas-machac/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grandstand: Joao Fonseca vs Tomas Machac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",05:45 PM - Grandstand: Joao Fonseca vs Tomas Machac [Bravo] - (27/08/2025)
@@ -34,16 +194,14 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/joao-fonseca-tomas-machac
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fk-qarabag-vs-ferencvaros/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FK Qarabag vs Ferencvaros" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:45 PM - FK Qarabag vs Ferencvaros [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756313100000-qarabag-ferencvaros/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FK Qarabag vs Ferencvaros" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:45 PM - FK Qarabag vs Ferencvaros [Echo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/qarabag-vs-ferencvarosi-tc-football-1435553/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FK Qarabag vs Ferencvaros" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:45 PM - FK Qarabag vs Ferencvaros [Charlie] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/qarabag-vs-ferencvarosi-tc-1435553/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FK Qarabag vs Ferencvaros" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:45 PM - FK Qarabag vs Ferencvaros [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/qarabag-ferencvaros/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Riga FC vs Sparta Prague" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnZiVGCF4gsIEsdMoQegxBDN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",05:45 PM - Riga FC vs Sparta Prague [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756306800000-sparta-prague-w-nordsjaelland-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Riga FC vs Sparta Prague" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnZiVGCF4gsIEsdMoQegxBDN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",05:45 PM - Riga FC vs Sparta Prague [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_riga-vs-sparta-praha_1520619/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Riga FC vs Sparta Prague" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnZiVGCF4gsIEsdMoQegxBDN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",05:45 PM - Riga FC vs Sparta Prague [Echo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/riga-vs-sparta-praha-football-1438710/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Riga FC vs Sparta Prague" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnZiVGCF4gsIEsdMoQegxBDN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",05:45 PM - Riga FC vs Sparta Prague [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/sparta-prague-w-nordsjaelland-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Qarabağ vs Ferencváros" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjAoQskCDHSQvEFn1mSekNu2J4LTTAEi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:45 PM - Qarabağ vs Ferencváros [Delta] - (27/08/2025)
@@ -66,8 +224,6 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/valentin-vacherot-martin-
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756312200000-aek-larnaca-brann/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AEK Larnaca vs Brann" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijC8QYwUmAAGENqw6zJEChAxrxkIvzAkFLCLmNNqlDzBl4RajlvR3owX3ExCCA.webp" group-title="Football",05:30 PM - AEK Larnaca vs Brann [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_aek-larnaca-vs-brann_1520684/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AEK Larnaca vs Brann" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijC8QYwUmAAGENqw6zJEChAxrxkIvzAkFLCLmNNqlDzBl4RajlvR3owX3ExCCA.webp" group-title="Football",05:30 PM - AEK Larnaca vs Brann [Echo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/aek-larnaca-vs-brann-football-1437231/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AEK Larnaca vs Brann" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijC8QYwUmAAGENqw6zJEChAxrxkIvzAkFLCLmNNqlDzBl4RajlvR3owX3ExCCA.webp" group-title="Football",05:30 PM - AEK Larnaca vs Brann [Hotel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/uefa-europa-league-aek-larnaca-vs-brann/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AEK Larnaca vs Brann" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijC8QYwUmAAGENqw6zJEChAxrxkIvzAkFLCLmNNqlDzBl4RajlvR3owX3ExCCA.webp" group-title="Football",05:30 PM - AEK Larnaca vs Brann [Intel] - (27/08/2025)
@@ -100,10 +256,6 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/romania-cupa-romaniei-csm
 https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/portugal-liga-revela-o-estrela-u23-vs-portimonense-u23/1/playlist.m3u8
 #EXTINF:-1 tvg-name="International Club Friendlies: HC Bratislava vs PSG Berani Zlin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Hockey",05:00 PM - International Club Friendlies: HC Bratislava vs PSG Berani Zlin [Hotel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/international-club-friendlies-hc-bratislava-vs-psg-berani-zlin/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vålerenga W vs HJK" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 PM - Vålerenga W vs HJK [Echo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/valerenga-w-vs-hjk-football-1405481/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ŽNK Mura vs Spartak Myjava W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 PM - ŽNK Mura vs Spartak Myjava W [Echo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/znk-mura-vs-spartak-myjava-w-football-1423474/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slovan Bratislava vs FC Zlin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Hockey",05:00 PM - Slovan Bratislava vs FC Zlin [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756310400000-slovan-bratislava-fc-zlin/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Valerenga W vs HJK W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:00 PM - Valerenga W vs HJK W [Bravo] - (27/08/2025)
@@ -184,8 +336,6 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-17-victoria-azarenk
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-5-jiri-lehecka-vs-tomas-martin-etcheverry/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 12: Brandon Nakashima vs Jerome Kym" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:10 PM - Court 12: Brandon Nakashima vs Jerome Kym [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-12-brandon-nakashima-vs-jerome-kym/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Press Conferences Day 4" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:10 PM - Press Conferences Day 4 [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/press-conferences-day-4/1/playlist.m3u8
 #EXTINF:-1 tvg-name="A.Beckley/N.Mashtakov - A.Allen/U.Tarasevich" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:01 PM - A.Beckley/N.Mashtakov - A.Allen/U.Tarasevich [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/a-beckley-n-mashtakov-a-allen-u-tarasevich/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Victoria Azarenka - Anastasia Pavlyuchenkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:00 PM - Victoria Azarenka - Anastasia Pavlyuchenkova [Intel] - (27/08/2025)
@@ -202,10 +352,6 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/liga-revelacao-famalicao-
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/famalicao-u23-rio-ave-u23/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open Round 1 | Day 4" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:00 PM - US Open Round 1 | Day 4 [Hotel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/us-open-round-1-day-4/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sparta Praha W vs Nordsjælland" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 PM - Sparta Praha W vs Nordsjælland [Echo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/sparta-praha-w-vs-nordsjaelland-football-1414260/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sparta Praha W vs Nordsjælland" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 PM - Sparta Praha W vs Nordsjælland [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/uefa-conference-league-riga-vs-sparta-praha/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open: Louis Armstrong Stadium" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:00 PM - US Open: Louis Armstrong Stadium [Charlie] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/louis-armstrong-stadium-1629458126/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gintra W vs Farul Constanta W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",04:00 PM - Gintra W vs Farul Constanta W [Bravo] - (27/08/2025)
@@ -230,8 +376,6 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756306800000-latvia-turk
 https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/eurobasket-latvia-vs-turkey/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Latvia Basketball vs Turkey Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWCkgBWviC3dtIEiEOGU+kDCvGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",04:00 PM - Latvia Basketball vs Turkey Basketball [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/latvia-turkey/1/playlist.m3u8
-#EXTINF:-1 tvg-name="La Vuelta a Espana: Stage 5" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:30 PM - La Vuelta a Espana: Stage 5 [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/la-vuelta-a-espana-stage-5/1/playlist.m3u8
 #EXTINF:-1 tvg-name="T.Luis/T.Torres - M.Hermans/M.Poljicak" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:20 PM - T.Luis/T.Torres - M.Hermans/M.Poljicak [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/t-luis-t-torres-m-hermans-m-poljicak/1/playlist.m3u8
 #EXTINF:-1 tvg-name="La Vuelta a España: Stage 5 ITT | 20 km" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:20 PM - La Vuelta a España: Stage 5 ITT | 20 km [Hotel] - (27/08/2025)
@@ -240,70 +384,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/la-vuelta-a-espa-a-stage-
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/m-andrzejczak-m-cislo-j-hsu-k-ozolins/1/playlist.m3u8
 #EXTINF:-1 tvg-name="J.Krattiger/H.Ouzilou - R.Bertola/J.Nikles" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:16 PM - J.Krattiger/H.Ouzilou - R.Bertola/J.Nikles [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/j-krattiger-h-ouzilou-r-bertola-j-nikles/1/playlist.m3u8
-#EXTINF:-1 tvg-name="La Vuelta on Eurosport: La Vuelta, Stage 5 + Post Program" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:15 PM - La Vuelta on Eurosport: La Vuelta, Stage 5 + Post Program [Charlie] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/la-vuelta-stage-5-post-program-1629458119/1/playlist.m3u8
 #EXTINF:-1 tvg-name="I.Gimenez/R.Tosetto - P.Michocki/N.Zanellato" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:06 PM - I.Gimenez/R.Tosetto - P.Michocki/N.Zanellato [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/i-gimenez-r-tosetto-p-michocki-n-zanellato/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Brann (F) - Inter Milan (F)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:00 PM - Brann (F) - Inter Milan (F) [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/brann-f-inter-milan-f-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Apollon W - Young Boys W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:00 PM - Apollon W - Young Boys W [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/apollon-w-young-boys-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Gorakhpur Lions - Noida Super Kings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",03:00 PM - Gorakhpur Lions - Noida Super Kings [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/gorakhpur-lions-noida-super-kings/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Zuzanna Pawlikowska - Tyra Caterina Grant" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Zuzanna Pawlikowska - Tyra Caterina Grant [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/zuzanna-pawlikowska-tyra-caterina-grant/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Valentin Basel - Lautaro Agustin Falabella" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Valentin Basel - Lautaro Agustin Falabella [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/valentin-basel-lautaro-agustin-falabella/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mateo Del Pino - Gonzalo Villanueva" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Mateo Del Pino - Gonzalo Villanueva [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/mateo-del-pino-gonzalo-villanueva/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jiri Lehecka - Tomas Martin Etcheverry" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Jiri Lehecka - Tomas Martin Etcheverry [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/jiri-lehecka-tomas-martin-etcheverry/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fernando Cavallo - Bruno Fernandez" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Fernando Cavallo - Bruno Fernandez [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/fernando-cavallo-bruno-fernandez/1/playlist.m3u8
-#EXTINF:-1 tvg-name="A.Casanova/N.Parizzia - C.Barry/M.Westphal" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - A.Casanova/N.Parizzia - C.Barry/M.Westphal [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/a-casanova-n-parizzia-c-barry-m-westphal/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Europe - UEFA Women's Champions League: Apollon Limassol vs Young Boys" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",03:00 PM - Europe - UEFA Women's Champions League: Apollon Limassol vs Young Boys [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/europe-uefa-women-s-champions-league-apollon-limassol-vs-young-boys/1/playlist.m3u8
-#EXTINF:-1 tvg-name="V.Tadic/M.ToPo - N.Ihlenfeld/D.Novak" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:52 PM - V.Tadic/M.ToPo - N.Ihlenfeld/D.Novak [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/v-tadic-m-topo-n-ihlenfeld-d-novak/1/playlist.m3u8
-#EXTINF:-1 tvg-name="B.Hassan/A.Mies - J.J.Bianchi/S.Purtseladze" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:50 PM - B.Hassan/A.Mies - J.J.Bianchi/S.Purtseladze [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/b-hassan-a-mies-j-j-bianchi-s-purtseladze/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mangaluru Dragons - Bengaluru Blasters" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",02:45 PM - Mangaluru Dragons - Bengaluru Blasters [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/mangaluru-dragons-bengaluru-blasters/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Italy (F) - Ireland (F)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",02:45 PM - Italy (F) - Ireland (F) [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/italy-f-ireland-f-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="L.Ebeling Koning/I.L.van Den Broek - P.Bakhmutkina/M.Hodzic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:42 PM - L.Ebeling Koning/I.L.van Den Broek - P.Bakhmutkina/M.Hodzic [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/l-ebeling-koning-i-l-van-den-broek-p-bakhmutkina-m-hodzic/1/playlist.m3u8
-#EXTINF:-1 tvg-name="V.Ahti/A.Maatman - N.Noha Akugue/I.Oz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:30 PM - V.Ahti/A.Maatman - N.Noha Akugue/I.Oz [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/v-ahti-a-maatman-n-noha-akugue-i-oz/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jarno Jans - Kylian Collignon" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:30 PM - Jarno Jans - Kylian Collignon [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/jarno-jans-kylian-collignon/1/playlist.m3u8
-#EXTINF:-1 tvg-name="D.Pichler/J.Rodionov - M.Gengel/D.Poljak" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:30 PM - D.Pichler/J.Rodionov - M.Gengel/D.Poljak [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/d-pichler-j-rodionov-m-gengel-d-poljak/1/playlist.m3u8
-#EXTINF:-1 tvg-name="B.Bozemoj/S.Pel - J.Cooper/E.Vanshelboim" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:30 PM - B.Bozemoj/S.Pel - J.Cooper/E.Vanshelboim [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/b-bozemoj-s-pel-j-cooper-e-vanshelboim/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Poland Volleyball Women vs Germany Volleyball Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlERxBjCCF4gsIEiGn6QiasZA2SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Other",02:30 PM - Poland Volleyball Women vs Germany Volleyball Women [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/fivb-world-championship-women-poland-vs-germany/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ukraine Volleyball Women vs Cameroon Volleyball Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvTIpslYGBC8QWECRDSDIRNRA3D0lkgpYRcxttUoeYMvCLU5nviset7iYhBAA.webp" group-title="Other",02:30 PM - Ukraine Volleyball Women vs Cameroon Volleyball Women [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/fivb-world-championship-women-ukraine-vs-cameroon/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Montenegro Basketball vs Germany Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Vekn6QQcPiG4g9JfSZQgpOy3wLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Basketball",02:30 PM - Montenegro Basketball vs Germany Basketball [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/eurobasket-montenegro-vs-germany/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Montenegro Basketball vs Germany Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Vekn6QQcPiG4g9JfSZQgpOy3wLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Basketball",02:30 PM - Montenegro Basketball vs Germany Basketball [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/montenegro-germany/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Niklas Grunewald - John Sperle" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:25 PM - Niklas Grunewald - John Sperle [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/niklas-grunewald-john-sperle/1/playlist.m3u8
-#EXTINF:-1 tvg-name="A.Kalender/P.Verbin - A.Jeran/M.Vetrih" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:22 PM - A.Kalender/P.Verbin - A.Jeran/M.Vetrih [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/a-kalender-p-verbin-a-jeran-m-vetrih/1/playlist.m3u8
-#EXTINF:-1 tvg-name="A.Hernandez/D.Martin - S.Kielan/F.Pieczonka" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:20 PM - A.Hernandez/D.Martin - S.Kielan/F.Pieczonka [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/a-hernandez-d-martin-s-kielan-f-pieczonka/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trivandrum Royals - Thrissur Titans" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",02:15 PM - Trivandrum Royals - Thrissur Titans [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/trivandrum-royals-thrissur-titans/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Russia - Russian Cup: Krylya Sovetov vs Dinamo Moskva" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",02:15 PM - Russia - Russian Cup: Krylya Sovetov vs Dinamo Moskva [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/russia-russian-cup-krylya-sovetov-vs-dinamo-moskva/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Krylia Sovetov Samara vs Dynamo Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",02:15 PM - Krylia Sovetov Samara vs Dynamo Moscow [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/krylya-sovetov-dynamo-moscow/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Alejandro Moro Canas - Genaro Alberto Olivieri" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:10 PM - Alejandro Moro Canas - Genaro Alberto Olivieri [Intel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/alejandro-moro-canas-genaro-alberto-olivieri/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYIfMpDlVelgoN1FIDYk0M+LMHREMpRfCQhMekvkLCF3foA.webp" group-title="24/7 Live",Fight Network
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/678fd97c8d98ade1299c33d8/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYIcsp2rFqhUpSazSuvsv4aWPjMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",Marquee Sports Network
@@ -314,12 +396,12 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/678fd7a78d98ade1299c326
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/67055bb1e04765cdd3240384/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/darts-tv-all-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PGA Tour 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2025
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/pga-tour-2025/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBC Golf Channel
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/nbc-golf-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
@@ -356,92 +438,16 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/espn-first-take/1/playlis
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",NBA TV
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/6570a866bae85135f61b12d1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Admin] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-washington-nationals-vs-new-york-yankees/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/new-york-yankees-vs-washington-nationals/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314300000-washington-nationals-vs-new-york-yankees/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Delta] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_yankees-nationals-live-streaming-962914122/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Foxtrot] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9355/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Yankees vs Washington Nationals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2zBpYfvQgheILCBIgDMENJApDIasZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",06:05 PM - New York Yankees vs Washington Nationals [Golf] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-washington-nationals-at-new-york-yankees/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 7: Cristina Bucsa vs Alexandra Eala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Court 7: Cristina Bucsa vs Alexandra Eala [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-7-cristina-buc-a-vs-alexandra-eala/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Louis Armstrong: Lloyd Harris vs Taylor Fritz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Louis Armstrong: Lloyd Harris vs Taylor Fritz [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/louis-armstrong-lloyd-harris-vs-taylor-fritz/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Louis Armstrong: Lloyd Harris vs Taylor Fritz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Louis Armstrong: Lloyd Harris vs Taylor Fritz [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314000000-us-open-louis-armstrong-stadium-harris-fritz/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 11: Benjamin Bonzi vs Marcos Giron" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:10 PM - Court 11: Benjamin Bonzi vs Marcos Giron [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-11-benjamin-bonzi-vs-marcos-giron/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Admin] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-tampa-bay-rays-vs-cleveland-guardians/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/cleveland-guardians-vs-tampa-bay-rays/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314600000-tampa-bay-rays-vs-cleveland-guardians/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Delta] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_guardians-rays-live-streaming-962915121/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Foxtrot] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9350/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkiKIYIODt4gsIEiAi6Q0kChAGDzfME0wBIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:10 PM - Cleveland Guardians vs Tampa Bay Rays [Golf] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-tampa-bay-rays-at-cleveland-guardians/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Admin] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-atlanta-braves-vs-miami-marlins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/miami-marlins-vs-atlanta-braves/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756314600000-atlanta-braves-vs-miami-marlins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Delta] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_marlins-braves-live-streaming-962916120/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Foxtrot] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9353/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWBIivECGDSQurCBIgIIGCEMojloy20wBIuYxRhVKHp-KNNYt74rMBgnuJiEEA.webp" group-title="Baseball",06:10 PM - Miami Marlins vs Atlanta Braves [Golf] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-atlanta-braves-at-miami-marlins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Arthur Ashe: Jessica Pegula vs Anna Blinkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Arthur Ashe: Jessica Pegula vs Anna Blinkova [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/arthur-ashe-jessica-pegula-vs-anna-blinkova/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Arthur Ashe: Jessica Pegula vs Anna Blinkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Arthur Ashe: Jessica Pegula vs Anna Blinkova [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756315800000-us-open-arthur-ashe-stadium-pegula-blinkova/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 5: Cameron Norrie vs Francisco Comesana" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Court 5: Cameron Norrie vs Francisco Comesana [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-5-cameron-norrie-vs-francisco-comesana/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Golden Arrows vs Magesi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 PM - Golden Arrows vs Magesi [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/golden-arrows-vs-magesi-fc/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sekhukhune United vs Amazulu" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiE28UpEHxAapICCBQHN5o1oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football",06:30 PM - Sekhukhune United vs Amazulu [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/sekhukhune-united-vs-amazulu/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kaizer Chiefs vs Mamelodi Sundowns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcQIYAAY6YbdqkgIIFFp1XTtgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football",06:30 PM - Kaizer Chiefs vs Mamelodi Sundowns [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/kaizer-chiefs-vs-mamelodi-sundowns/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/trent-rockets-w-vs-birmingham-phoenix-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Charlie] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/trent-rockets-vs-birmingham-phoenix-1629454714/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trent Rockets vs Birmingham Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkhD0mABmCbuIKSBQgYIC3xCIrx+AX0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Cricket",06:30 PM - Trent Rockets vs Birmingham Phoenix [Hotel] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/the-hundred-women-trent-rockets-w-vs-birmingham-phoenix-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/sweden-vs-finland/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756315800000-sweden-finland/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sweden Basketball vs Finland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCIpIOFLA7uGkCRBGjKEDphndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",06:30 PM - Sweden Basketball vs Finland Basketball [Charlie] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/sweden-vs-finland-1629458170/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 12: Moyuka Uchijima vs Barbora Krejcikova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",06:45 PM - Court 12: Moyuka Uchijima vs Barbora Krejcikova [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-12-moyuka-uchijima-vs-barbora-krejcikova/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Baltika Kaliningrad vs CSKA Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Baltika Kaliningrad vs CSKA Moscow [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/baltika-vs-cska-moscow/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Baltika Kaliningrad vs CSKA Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Baltika Kaliningrad vs CSKA Moscow [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756316700000-baltika-cska-moscow/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rostov vs Dynamo Makhachkala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Rostov vs Dynamo Makhachkala [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fk-rostov-vs-dynamo-makhachkala/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rostov vs Dynamo Makhachkala" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:45 PM - Rostov vs Dynamo Makhachkala [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756316700000-fk-rostov-dynamo-makhachkala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="SFK 2000 vs OH Leuven W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 PM - SFK 2000 vs OH Leuven W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/sfk-2000-vs-oh-leuven-w-football-1405482/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 10 Rinderknech - Davidovich Fokina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:00 PM - US Open vs Court 10 Rinderknech - Davidovich Fokina [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756317600000-us-open-court-10-rinderknech-davidovich-fokina/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Challenger: Benjamin Hassan/Andreas Mies vs Juan Jose Bianchi/Saba Purtseladze" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:00 PM - ATP Challenger: Benjamin Hassan/Andreas Mies vs Juan Jose Bianchi/Saba Purtseladze [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/atp-challenger-benjamin-hassan-andreas-mies-vs-juan-jose-bianchi-saba-purtseladze/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 10: Arthur Rinderknech vs Alejandro Davidovich Fokina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:00 PM - Court 10: Arthur Rinderknech vs Alejandro Davidovich Fokina [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-10-arthur-rinderknech-vs-alejandro-davidovich-fokina/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal W vs West Ham W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:00 PM - Arsenal W vs West Ham W [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/arsenal-w-vs-west-ham-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 10: Arthur Rinderknech vs Alejandro Davidovich Fokina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:10 PM - Court 10: Arthur Rinderknech vs Alejandro Davidovich Fokina [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-10-arthur-rinderknech-vs-alejandro-davidovich-fokina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5: Cameron Norrie vs Francisco Comesana" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:10 PM - Court 5: Cameron Norrie vs Francisco Comesana [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-5-cameron-norrie-vs-francisco-comesana/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Honefoss vs Lillestrom" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:15 PM - Honefoss vs Lillestrom [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756318500000-honefoss-lillestrom/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Serbia Basketball vs Estonia Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRIgQPBmG3cQfDSEOGUIKSBjXtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",07:15 PM - Serbia Basketball vs Estonia Basketball [Alpha] - (27/08/2025)
@@ -450,6 +456,10 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/serbia-vs-estonia/1/playl
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756318500000-serbia-estonia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Serbia Basketball vs Estonia Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRIgQPBmG3cQfDSEOGUIKSBjXtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",07:15 PM - Serbia Basketball vs Estonia Basketball [Charlie] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/serbia-vs-estonia-1629458171/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Serbia Basketball vs Estonia Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRIgQPBmG3cQfDSEOGUIKSBjXtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Basketball",07:15 PM - Serbia Basketball vs Estonia Basketball [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/serbia-vs-estonia-basketball-446189/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fortuna Hjørring vs Hibernian W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 PM - Fortuna Hjørring vs Hibernian W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/fortuna-hjorring-vs-hibernian-w-football-1405473/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 12 Darderi - Spizzirri" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - US Open vs Court 12 Darderi - Spizzirri [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-us-open-court-12-darderi-spizzirri/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 7 Mensik - Blanchet" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - US Open vs Court 7 Mensik - Blanchet [Bravo] - (27/08/2025)
@@ -458,6 +468,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-us-open-cou
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-us-open-stadium-17-rybakina-valentova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Valur W vs Braga W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 PM - Valur W vs Braga W [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-valur-w-braga-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Valur W vs Braga W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 PM - Valur W vs Braga W [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/valur-w-vs-sporting-braga-football-1405470/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SV Donau vs SCR Altach" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 PM - SV Donau vs SCR Altach [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-sv-donau-scr-altach/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Schwaz vs BW Linz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 PM - Schwaz vs BW Linz [Bravo] - (27/08/2025)
@@ -466,26 +478,30 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-schwaz-bw-l
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-horn-lask/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Atus Velden vs Hartberg" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:30 PM - Atus Velden vs Hartberg [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756319400000-atus-velden-hartberg/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 17: Elena Rybakina vs Tereza Valentova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 17: Elena Rybakina vs Tereza Valentova [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-17-elena-rybakina-vs-tereza-valentova/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 7: Jakub Mensik vs Ugo Blanchet" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 7: Jakub Mensik vs Ugo Blanchet [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-7-jakub-mensik-vs-ugo-blanchet/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 12: Luciano Darderi vs Eliot Spizzirri" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 12: Luciano Darderi vs Eliot Spizzirri [Alpha] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-12-luciano-darderi-vs-eliot-spizzirri/1/playlist.m3u8
 #EXTINF:-1 tvg-name="DFB Pokal: SV Wehen vs Bayern Munchen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:45 PM - DFB Pokal: SV Wehen vs Bayern Munchen [Charlie] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/sv-wehen-vs-bayern-munchen-1378960/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DFB Pokal: SV Wehen vs Bayern Munchen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",07:45 PM - DFB Pokal: SV Wehen vs Bayern Munchen [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/sv-wehen-vs-bayern-munchen-football-1378960/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Moyuka Uchijima vs Barbora Krejcikova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:45 PM - Court 12: Moyuka Uchijima vs Barbora Krejcikova [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-12-moyuka-uchijima-vs-barbora-krejcikova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7: Jakub Mensik vs Ugo Blanchet" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",07:45 PM - Court 7: Jakub Mensik vs Ugo Blanchet [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-7-jakub-mensik-vs-ugo-blanchet/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Everton vs Mansfield Town" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGnQU5LCD299IEppCGQFsyAggULJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",07:45 PM - Everton vs Mansfield Town [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/everton-vs-mansfield-town/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Everton vs Mansfield Town" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGnQU5LCD299IEppCGQFsyAggULJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",07:45 PM - Everton vs Mansfield Town [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756320300000-everton-mansfield/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Everton vs Mansfield Town" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGnQU5LCD299IEppCGQFsyAggULJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",07:45 PM - Everton vs Mansfield Town [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_everton-vs-mansfield-town_1520742/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Everton vs Mansfield Town" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGnQU5LCD299IEppCGQFsyAggULJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",07:45 PM - Everton vs Mansfield Town [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/everton-vs-mansfield-town-football-1436799/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oxford United vs Brighton and Hove Albion" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoOAImYEMAAMIXiCwgSIaUZDXrxxCBZIKWEXMYowqlD0-lG1OW98Vi1PcTEIIA.webp" group-title="Football",07:45 PM - Oxford United vs Brighton and Hove Albion [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/oxford-united-vs-brighton-hove-albion/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oxford United vs Brighton and Hove Albion" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoOAImYEMAAMIXiCwgSIaUZDXrxxCBZIKWEXMYowqlD0-lG1OW98Vi1PcTEIIA.webp" group-title="Football",07:45 PM - Oxford United vs Brighton and Hove Albion [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756320300000-oxford-united-brighton/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oxford United vs Brighton and Hove Albion" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoOAImYEMAAMIXiCwgSIaUZDXrxxCBZIKWEXMYowqlD0-lG1OW98Vi1PcTEIIA.webp" group-title="Football",07:45 PM - Oxford United vs Brighton and Hove Albion [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_oxford-united-vs-brighton-hove-albion_1520165/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oxford United vs Brighton and Hove Albion" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoOAImYEMAAMIXiCwgSIaUZDXrxxCBZIKWEXMYowqlD0-lG1OW98Vi1PcTEIIA.webp" group-title="Football",07:45 PM - Oxford United vs Brighton and Hove Albion [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/oxford-united-vs-brighton-football-1436259/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fulham vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvwAMIXkVkodILCBIhphkJcO8zLJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Football",07:45 PM - Fulham vs Bristol City [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fulham-vs-bristol-city/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fulham vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvwAMIXkVkodILCBIhphkJcO8zLJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Football",07:45 PM - Fulham vs Bristol City [Bravo] - (27/08/2025)
@@ -494,6 +510,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756320300000-fulham-bris
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/fulham-vs-bristol-city-1436265/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fulham vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvwAMIXkVkodILCBIhphkJcO8zLJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Football",07:45 PM - Fulham vs Bristol City [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_fulham-vs-bristol-city_1520171/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fulham vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvwAMIXkVkodILCBIhphkJcO8zLJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Football",07:45 PM - Fulham vs Bristol City [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/fulham-vs-bristol-city-football-1436265/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wehen Wiesbaden vs Bayern Munich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzMQEEDJC6Q3EHxAkQMXMYMmpugsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football",07:45 PM - Wehen Wiesbaden vs Bayern Munich [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/sv-wehen-wiesbaden-vs-bayern-munich/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wehen Wiesbaden vs Bayern Munich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzMQEEDJC6Q3EHxAkQMXMYMmpugsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football",07:45 PM - Wehen Wiesbaden vs Bayern Munich [Bravo] - (27/08/2025)
@@ -514,6 +532,14 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/grandstand-1629458134/1
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-11-jelena-ostapenko-vs-taylor-townsend/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Elise Mertens vs Lulu Sun" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 5: Elise Mertens vs Lulu Sun [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-5-elise-mertens-vs-lulu-sun/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 17: Elena Rybakina vs Tereza Valentova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Court 17: Elena Rybakina vs Tereza Valentova [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-17-elena-rybakina-vs-tereza-valentova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arthur Ashe: Jessica Pegula vs Anna Blinkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Arthur Ashe: Jessica Pegula vs Anna Blinkova [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/arthur-ashe-jessica-pegula-vs-anna-blinkova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arthur Ashe: Jessica Pegula vs Anna Blinkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Arthur Ashe: Jessica Pegula vs Anna Blinkova [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756315800000-us-open-arthur-ashe-stadium-pegula-blinkova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arthur Ashe: Jessica Pegula vs Anna Blinkova" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Arthur Ashe: Jessica Pegula vs Anna Blinkova [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/jessica-pegula-anna-blinkova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grandstand: Frances Tiafoe vs Martin DammJr" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Grandstand: Frances Tiafoe vs Martin DammJr [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/grandstand-frances-tiafoe-vs-martin-dammjr/1/playlist.m3u8
 #EXTINF:-1 tvg-name="F.C. Kobenhavn vs FC Basel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 PM - F.C. Kobenhavn vs FC Basel [Alpha] - (27/08/2025)
@@ -524,6 +550,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/benfica-vs-fenerbahce/1/p
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756321200000-benfica-fenerbahce/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Benfica vs Fenerbahce" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 PM - Benfica vs Fenerbahce [Charlie] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/benfica-vs-fenerbahce-1435556/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Benfica vs Fenerbahce" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 PM - Benfica vs Fenerbahce [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/benfica-vs-fenerbahce-football-1435556/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPY5+vEDBC6sIEiGkGQFi7uoh4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",08:00 PM - Grimsby Town vs Manchester United [Admin] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-grimsby-town-vs-manchester-united/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPY5+vEDBC6sIEiGkGQFi7uoh4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",08:00 PM - Grimsby Town vs Manchester United [Alpha] - (27/08/2025)
@@ -534,6 +562,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756321200000-grimsby-man
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/grimsby-vs-manchester-united-1436263/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPY5+vEDBC6sIEiGkGQFi7uoh4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",08:00 PM - Grimsby Town vs Manchester United [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_grimsby-town-vs-manchester-united_1520169/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Grimsby Town vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPY5+vEDBC6sIEiGkGQFi7uoh4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",08:00 PM - Grimsby Town vs Manchester United [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/grimsby-vs-manchester-united-football-1436263/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPY5+vEDBC6sIEiGkGQFi7uoh4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",08:00 PM - Grimsby Town vs Manchester United [Hotel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Hotel/stream/europe-uefa-women-s-champions-league-manchester-united-vs-psv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Benfica vs Fenerbahçe" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtU4gSIcLMS8QWbSZ26UICxBCL8wJBSwi5jFGFUoe78o01jPdvRg7uJiEEA.webp" group-title="Football",08:00 PM - Benfica vs Fenerbahçe [Delta] - (27/08/2025)
@@ -546,10 +576,14 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756321200000-club-brugge
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/club-brugge-kv-vs-rangers-1435555/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Club Brugge vs Rangers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlBxIwJEChAHeILCF1mDeyxBCT8wbTAEi5jFDo4oeO8o2pzPdvRg7oxiEEA.webp" group-title="Football",08:00 PM - Club Brugge vs Rangers [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_club-brugge-vs-rangers_1520120/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Club Brugge vs Rangers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlBxIwJEChAHeILCF1mDeyxBCT8wbTAEi5jFDo4oeO8o2pzPdvRg7oxiEEA.webp" group-title="Football",08:00 PM - Club Brugge vs Rangers [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/club-brugge-kv-vs-rangers-football-1435555/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FC Copenhagen vs Basel" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxDTYYFCFp7NWECRNmQIPXsRYWSCrfajxKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",08:00 PM - FC Copenhagen vs Basel [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756321200000-fc-copenhagen-basel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FC Copenhagen vs Basel" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxDTYYFCFp7NWECRNmQIPXsRYWSCrfajxKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",08:00 PM - FC Copenhagen vs Basel [Charlie] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/fc-copenhagen-vs-fc-basel-1893-1435554/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Copenhagen vs Basel" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxDTYYFCFp7NWECRNmQIPXsRYWSCrfajxKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",08:00 PM - FC Copenhagen vs Basel [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/fc-copenhagen-vs-fc-basel-1893-football-1435554/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Humaitá vs General Caballero" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",08:00 PM - Humaitá vs General Caballero [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756321200000-humaita-general-caballero-jlm/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIgYIWWD7BpIXiCybjICJZAob5lCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",08:00 PM - Celta Vigo vs Real Betis [Alpha] - (27/08/2025)
@@ -560,10 +594,14 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756321200000-celta-vigo-
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/celta-vigo-vs-real-betis-1390871/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIgYIWWD7BpIXiCybjICJZAob5lCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",08:00 PM - Celta Vigo vs Real Betis [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/soccer_celta-de-vigo-vs-real-betis_1519310/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIgYIWWD7BpIXiCybjICJZAob5lCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",08:00 PM - Celta Vigo vs Real Betis [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/celta-vigo-vs-real-betis-football-1390871/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 10 Samsonova - Hon" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:00 PM - US Open vs Court 10 Samsonova - Hon [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756324800000-us-open-court-10-samsonova-hon/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fortaleza vs Independiente Medellin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 PM - Fortaleza vs Independiente Medellin [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756324800000-fortaleza-independiente-medellin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fortaleza vs Independiente Medellin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 PM - Fortaleza vs Independiente Medellin [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/fortaleza-fc-vs-independiente-medellin-football-1438667/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 10: Liudmila Samsonova vs Priscilla Hon" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:00 PM - Court 10: Liudmila Samsonova vs Priscilla Hon [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-10-liudmila-samsonova-vs-priscilla-hon/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fortaleza CEIF vs Independiente Medellín" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",09:00 PM - Fortaleza CEIF vs Independiente Medellín [Alpha] - (27/08/2025)
@@ -578,10 +616,14 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756325400000-san-diego-p
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/san-diego-padres-vs-seattle-mariners-1629458172/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBgwYlJBAoQvEFhAkQEEDBDSDRkIhgskFLCLmM9qzRx3lG1HKa+KxaOuJiEEA.webp" group-title="Baseball",09:10 PM - Seattle Mariners vs San Diego Padres [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_mariners-padres-live-streaming-962917119/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBgwYlJBAoQvEFhAkQEEDBDSDRkIhgskFLCLmM9qzRx3lG1HKa+KxaOuJiEEA.webp" group-title="Baseball",09:10 PM - Seattle Mariners vs San Diego Padres [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/seattle-mariners-vs-san-diego-padres-baseball-165282/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBgwYlJBAoQvEFhAkQEEDBDSDRkIhgskFLCLmM9qzRx3lG1HKa+KxaOuJiEEA.webp" group-title="Baseball",09:10 PM - Seattle Mariners vs San Diego Padres [Foxtrot] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9358/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBgwYlJBAoQvEFhAkQEEDBDSDRkIhgskFLCLmM9qzRx3lG1HKa+KxaOuJiEEA.webp" group-title="Baseball",09:10 PM - Seattle Mariners vs San Diego Padres [Golf] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-san-diego-padres-at-seattle-mariners/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Luciano Darderi vs Eliot Spizzirri" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:15 PM - Court 12: Luciano Darderi vs Eliot Spizzirri [Alpha] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/court-12-luciano-darderi-vs-eliot-spizzirri/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 12 Li - Bencic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - US Open vs Court 12 Li - Bencic [Bravo] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756326600000-us-open-court-12-li-bencic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open vs Court 11 Thompson - Mannarino" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",09:30 PM - US Open vs Court 11 Thompson - Mannarino [Bravo] - (27/08/2025)
@@ -628,6 +670,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756334100000-boston-red-
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/boston-red-sox-vs-baltimore-orioles-1629458173/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHkgUIWqpC8QWECRAQQMENO0GLJlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:35 PM - Baltimore Orioles vs Boston Red Sox [Delta] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_orioles-red-sox-live-streaming-962918118/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltimore Orioles vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHkgUIWqpC8QWECRAQQMENO0GLJlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:35 PM - Baltimore Orioles vs Boston Red Sox [Echo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/baltimore-orioles-vs-boston-red-sox-baseball-165274/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHkgUIWqpC8QWECRAQQMENO0GLJlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:35 PM - Baltimore Orioles vs Boston Red Sox [Foxtrot] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd934f/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHkgUIWqpC8QWECRAQQMENO0GLJlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",11:35 PM - Baltimore Orioles vs Boston Red Sox [Golf] - (27/08/2025)
@@ -664,6 +708,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756336020000-minnesota-t
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/minnesota-twins-vs-toronto-blue-jays-1629458174/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Blue Jays vs Minnesota Twins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBS5pYLSE4heILCBIgIIGCGmbDp6yyQUsIuYy2qUPMGXhFqcl74rMBgPuJiEEA.webp" group-title="Baseball",12:07 AM - Toronto Blue Jays vs Minnesota Twins [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_blue-jays-twins-live-streaming-962919117/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toronto Blue Jays vs Minnesota Twins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBS5pYLSE4heILCBIgIIGCGmbDp6yyQUsIuYy2qUPMGXhFqcl74rMBgPuJiEEA.webp" group-title="Baseball",12:07 AM - Toronto Blue Jays vs Minnesota Twins [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/toronto-blue-jays-vs-minnesota-twins-baseball-165284/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Blue Jays vs Minnesota Twins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBS5pYLSE4heILCBIgIIGCGmbDp6yyQUsIuYy2qUPMGXhFqcl74rMBgPuJiEEA.webp" group-title="Baseball",12:07 AM - Toronto Blue Jays vs Minnesota Twins [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd935b/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Blue Jays vs Minnesota Twins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBS5pYLSE4heILCBIgIIGCGmbDp6yyQUsIuYy2qUPMGXhFqcl74rMBgPuJiEEA.webp" group-title="Baseball",12:07 AM - Toronto Blue Jays vs Minnesota Twins [Golf] - (28/08/2025)
@@ -678,6 +724,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756336200000-philadelphi
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/philadelphia-phillies-vs-new-york-mets-1629458175/1/playlist.m3u8
 #EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByCwDSCBQhemkCRAQQMENP2GQ1EPBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",12:10 AM - New York Mets vs Philadelphia Phillies [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_mets-phillies-live-streaming-962920116/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByCwDSCBQhemkCRAQQMENP2GQ1EPBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",12:10 AM - New York Mets vs Philadelphia Phillies [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/new-york-mets-vs-philadelphia-phillies-baseball-165279/1/playlist.m3u8
 #EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByCwDSCBQhemkCRAQQMENP2GQ1EPBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",12:10 AM - New York Mets vs Philadelphia Phillies [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9354/1/playlist.m3u8
 #EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByCwDSCBQhemkCRAQQMENP2GQ1EPBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Baseball",12:10 AM - New York Mets vs Philadelphia Phillies [Golf] - (28/08/2025)
@@ -686,6 +734,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-philadelphia-phillies-at
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/bucaramanga-vs-america-de-cali/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bucaramanga vs America de Cali" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:30 AM - Bucaramanga vs America de Cali [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756337400000-bucaramanga-america-de-cali/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bucaramanga vs America de Cali" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",12:30 AM - Bucaramanga vs America de Cali [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/bucaramanga-vs-america-de-cali-football-1438668/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Atlanta United II vs Inter Miami II" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEGxDcw2+ki0g+IRCGMHTEA-ALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",12:30 AM - Atlanta United II vs Inter Miami II [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756337400000-atlanta-united-2-inter-miami-ii/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Atlanta Dream vs Las Vegas Aces" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD5gkXViRDcQfEBBD6pIFEdwgLfAsA0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Basketball",12:30 AM - Atlanta Dream vs Las Vegas Aces [Admin] - (28/08/2025)
@@ -698,6 +748,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756337400000-las-vegas-a
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/las-vegas-aces-vs-atlanta-dream-1629458176/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Atlanta Dream vs Las Vegas Aces" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD5gkXViRDcQfEBBD6pIFEdwgLfAsA0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Basketball",12:30 AM - Atlanta Dream vs Las Vegas Aces [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_wnba_atlanta-las-vegas-live-streaming-963036999/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Dream vs Las Vegas Aces" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD5gkXViRDcQfEBBD6pIFEdwgLfAsA0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Basketball",12:30 AM - Atlanta Dream vs Las Vegas Aces [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/atlanta-dream-w-vs-las-vegas-aces-w-basketball-443335/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpMOIGCGkheILCBIgIu-SBSHT1lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp" group-title="Baseball",12:40 AM - Milwaukee Brewers vs Arizona Diamondbacks [Admin] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-arizona-diamondbacks-vs-milwaukee-brewers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpMOIGCGkheILCBIgIu-SBSHT1lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp" group-title="Baseball",12:40 AM - Milwaukee Brewers vs Arizona Diamondbacks [Alpha] - (28/08/2025)
@@ -708,6 +760,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756338000000-arizona-dia
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/arizona-diamondbacks-vs-milwaukee-brewers-1629458178/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpMOIGCGkheILCBIgIu-SBSHT1lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp" group-title="Baseball",12:40 AM - Milwaukee Brewers vs Arizona Diamondbacks [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_brewers-diamondbacks-live-streaming-962922114/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Milwaukee Brewers vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpMOIGCGkheILCBIgIu-SBSHT1lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp" group-title="Baseball",12:40 AM - Milwaukee Brewers vs Arizona Diamondbacks [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/milwaukee-brewers-vs-arizona-diamondbacks-baseball-165285/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpMOIGCGkheILCBIgIu-SBSHT1lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp" group-title="Baseball",12:40 AM - Milwaukee Brewers vs Arizona Diamondbacks [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd935c/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs Arizona Diamondbacks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsBpMOIGCGkheILCBIgIu-SBSHT1lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp" group-title="Baseball",12:40 AM - Milwaukee Brewers vs Arizona Diamondbacks [Golf] - (28/08/2025)
@@ -722,6 +776,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756338000000-kansas-city
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/kansas-city-royals-vs-chicago-white-sox-1629458177/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiRDh+4FMGkheILCE0QQMEAZSGLWlkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp" group-title="Baseball",12:40 AM - Chicago White Sox vs Kansas City Royals [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_white-sox-royals-live-streaming-962921115/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiRDh+4FMGkheILCE0QQMEAZSGLWlkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp" group-title="Baseball",12:40 AM - Chicago White Sox vs Kansas City Royals [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/chicago-white-sox-vs-kansas-city-royals-baseball-165275/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiRDh+4FMGkheILCE0QQMEAZSGLWlkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp" group-title="Baseball",12:40 AM - Chicago White Sox vs Kansas City Royals [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd935d/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiRDh+4FMGkheILCE0QQMEAZSGLWlkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp" group-title="Baseball",12:40 AM - Chicago White Sox vs Kansas City Royals [Golf] - (28/08/2025)
@@ -736,6 +792,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756338300000-pittsburgh-
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/pittsburgh-pirates-vs-st-louis-cardinals-1629458179/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Louis Cardinals vs Pittsburgh Pirates" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduxAhBABhBRpIXtpAl9IGCEMojVkPBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Baseball",12:45 AM - St. Louis Cardinals vs Pittsburgh Pirates [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_cardinals-pirates-live-streaming-962923113/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St. Louis Cardinals vs Pittsburgh Pirates" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduxAhBABhBRpIXtpAl9IGCEMojVkPBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Baseball",12:45 AM - St. Louis Cardinals vs Pittsburgh Pirates [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/stlouis-cardinals-vs-pittsburgh-pirates-baseball-165286/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Louis Cardinals vs Pittsburgh Pirates" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduxAhBABhBRpIXtpAl9IGCEMojVkPBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Baseball",12:45 AM - St. Louis Cardinals vs Pittsburgh Pirates [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9359/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Louis Cardinals vs Pittsburgh Pirates" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduxAhBABhBRpIXtpAl9IGCEMojVkPBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Baseball",12:45 AM - St. Louis Cardinals vs Pittsburgh Pirates [Golf] - (28/08/2025)
@@ -752,6 +810,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/moca-vs-mount-pleasant-
 https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-aew-wednesday-night-dynamite/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Fight",01:00 AM - AEW: Wednesday Night Dynamite [Alpha] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/aew-dynamite/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Fight",01:00 AM - AEW: Wednesday Night Dynamite [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/aew-wednesday-night-dynamite-aew-001/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alajuelense vs Antigua" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:00 AM - Alajuelense vs Antigua [Alpha] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/alajuelense-vs-antigua/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alajuelense vs Antigua" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:00 AM - Alajuelense vs Antigua [Bravo] - (28/08/2025)
@@ -782,6 +842,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756339200000-connecticut
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/connecticut-sun-vs-dallas-wings-1629458180/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dallas Wings vs Connecticut Sun" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDAbAwufnJDcQfEBBAkQUkCiO4LVgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Basketball",01:00 AM - Dallas Wings vs Connecticut Sun [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_wnba_wings-connecticut-live-streaming-963037998/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dallas Wings vs Connecticut Sun" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDAbAwufnJDcQfEBBAkQUkCiO4LVgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Basketball",01:00 AM - Dallas Wings vs Connecticut Sun [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/dallas-wings-w-vs-connecticut-sun-w-basketball-443336/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Texas Rangers vs Los Angeles Angels" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoP79EEELt4gsIEnpAwQ0kChAGTzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",01:05 AM - Texas Rangers vs Los Angeles Angels [Admin] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-los-angeles-angels-vs-texas-rangers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Texas Rangers vs Los Angeles Angels" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoP79EEELt4gsIEnpAwQ0kChAGTzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",01:05 AM - Texas Rangers vs Los Angeles Angels [Alpha] - (28/08/2025)
@@ -792,6 +854,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756339500000-los-angeles
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/los-angeles-angels-vs-texas-rangers-1629458182/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Texas Rangers vs Los Angeles Angels" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoP79EEELt4gsIEnpAwQ0kChAGTzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",01:05 AM - Texas Rangers vs Los Angeles Angels [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_rangers-angels-live-streaming-962924112/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Texas Rangers vs Los Angeles Angels" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoP79EEELt4gsIEnpAwQ0kChAGTzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",01:05 AM - Texas Rangers vs Los Angeles Angels [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/texas-rangers-vs-los-angeles-angels-baseball-165283/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Texas Rangers vs Los Angeles Angels" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoP79EEELt4gsIEnpAwQ0kChAGTzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",01:05 AM - Texas Rangers vs Los Angeles Angels [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd935a/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Texas Rangers vs Los Angeles Angels" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoP79EEELt4gsIEnpAwQ0kChAGTzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",01:05 AM - Texas Rangers vs Los Angeles Angels [Golf] - (28/08/2025)
@@ -810,6 +874,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756339800000-colorado-ro
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/colorado-rockies-vs-houston-astros-1629458183/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Houston Astros vs Colorado Rockies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmOkgsIGSAghe23fpAwQWlIevSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",01:10 AM - Houston Astros vs Colorado Rockies [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_astros-rockies-live-streaming-910703385/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Houston Astros vs Colorado Rockies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmOkgsIGSAghe23fpAwQWlIevSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",01:10 AM - Houston Astros vs Colorado Rockies [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/houston-astros-vs-colorado-rockies-baseball-165277/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Houston Astros vs Colorado Rockies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmOkgsIGSAghe23fpAwQWlIevSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",01:10 AM - Houston Astros vs Colorado Rockies [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9351/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Houston Astros vs Colorado Rockies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmOkgsIGSAghe23fpAwQWlIevSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Baseball",01:10 AM - Houston Astros vs Colorado Rockies [Golf] - (28/08/2025)
@@ -824,6 +890,10 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-orlando-city-sc-vs-in
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/inter-miami-cf-vs-orlando-city-sc/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Inter Miami vs Orlando City" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/9e39328a6794a1f0efd667a69fe74fe0-thumbnail.jpg" group-title="Football",01:30 AM - Inter Miami vs Orlando City [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756341000000-inter-miami-orlando-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Inter Miami vs Orlando City" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/9e39328a6794a1f0efd667a69fe74fe0-thumbnail.jpg" group-title="Football",01:30 AM - Inter Miami vs Orlando City [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/inter-miami-vs-orlando-city-sc-football-1447008/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportivo Pasto vs Once Caldas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:30 AM - Deportivo Pasto vs Once Caldas [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/deportivo-pasto-vs-once-caldas-football-1446983/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Athletico Paranaense vs Corinthians" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:30 AM - Athletico Paranaense vs Corinthians [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756341000000-athletico-pr-corinthians/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vasco da Gama vs Botafogo" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",01:30 AM - Vasco da Gama vs Botafogo [Bravo] - (28/08/2025)
@@ -840,6 +910,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756341600000-cincinnati-
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/cincinnati-reds-vs-los-angeles-dodgers-1629458184/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBBQkYaSBCUQvEFhAktIGCD0ojdlCx0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Baseball",01:40 AM - Los Angeles Dodgers vs Cincinnati Reds [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_dodgers-reds-live-streaming-962925111/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBBQkYaSBCUQvEFhAktIGCD0ojdlCx0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Baseball",01:40 AM - Los Angeles Dodgers vs Cincinnati Reds [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/los-angeles-dodgers-vs-cincinnati-reds-baseball-165278/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBBQkYaSBCUQvEFhAktIGCD0ojdlCx0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Baseball",01:40 AM - Los Angeles Dodgers vs Cincinnati Reds [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9352/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBBQkYaSBCUQvEFhAktIGCD0ojdlCx0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Baseball",01:40 AM - Los Angeles Dodgers vs Cincinnati Reds [Golf] - (28/08/2025)
@@ -850,6 +922,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/arthur-ashe-aryna-sabalen
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756342800000-us-open-arthur-ashe-stadium-sabalenka-kudermetova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Atletico Nacional vs Quindio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",02:30 AM - Atletico Nacional vs Quindio [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756344600000-atletico-nacional-quindio/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atletico Nacional vs Quindio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",02:30 AM - Atletico Nacional vs Quindio [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/atletico-nacional-vs-quindio-football-1438669/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco Giants vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgtssbKwheIAyRAQQMTSBSGrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:45 AM - San Francisco Giants vs Chicago Cubs [Admin] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-chicago-cubs-vs-san-francisco-giants/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco Giants vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgtssbKwheIAyRAQQMTSBSGrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:45 AM - San Francisco Giants vs Chicago Cubs [Alpha] - (28/08/2025)
@@ -860,6 +934,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756345500000-chicago-cub
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/chicago-cubs-vs-san-francisco-giants-1629458185/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco Giants vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgtssbKwheIAyRAQQMTSBSGrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:45 AM - San Francisco Giants vs Chicago Cubs [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_giants-cubs-live-streaming-962926110/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Francisco Giants vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgtssbKwheIAyRAQQMTSBSGrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:45 AM - San Francisco Giants vs Chicago Cubs [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/san-francisco-giants-vs-chicago-cubs-baseball-165287/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco Giants vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgtssbKwheIAyRAQQMTSBSGrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:45 AM - San Francisco Giants vs Chicago Cubs [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9357/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco Giants vs Chicago Cubs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgtssbKwheIAyRAQQMTSBSGrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:45 AM - San Francisco Giants vs Chicago Cubs [Golf] - (28/08/2025)
@@ -868,10 +944,14 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-chicago-cubs-at-san-fran
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/esteli-vs-aguila/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Esteli vs Aguila" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - Esteli vs Aguila [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756346400000-esteli-aguila/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Estelí vs Águila" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - Real Estelí vs Águila [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/real-esteli-vs-aguila-football-1411912/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CD Olimpia vs Xelajú" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - CD Olimpia vs Xelajú [Alpha] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/olimpia-vs-xelaju/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CD Olimpia vs Xelajú" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - CD Olimpia vs Xelajú [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756346400000-cd-olimpia-xelaju/1/playlist.m3u8
+#EXTINF:-1 tvg-name="CD Olimpia vs Xelajú" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",03:00 AM - CD Olimpia vs Xelajú [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/cd-olimpia-vs-xelaju-football-1411911/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Town FC vs Real Monarchs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJVIgUzEBBDcQfEIhAmDZvRb4FgSCjdYixKMCp1s35ellk6mtGBuYqIQQA.webp" group-title="Football",03:00 AM - The Town FC vs Real Monarchs [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756346400000-town-fc-real-monarchs-slc/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Athletics vs Detroit Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoN4gQwAAwJtILVhAkQEEDBDSQKc6dsskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Baseball",03:05 AM - Athletics vs Detroit Tigers [Admin] - (28/08/2025)
@@ -884,6 +964,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756346700000-detroit-tig
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/detroit-tigers-vs-athletics-1629458186/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Athletics vs Detroit Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoN4gQwAAwJtILVhAkQEEDBDSQKc6dsskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Baseball",03:05 AM - Athletics vs Detroit Tigers [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live_mlb_athletics-tigers-live-streaming-962927109/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Athletics vs Detroit Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoN4gQwAAwJtILVhAkQEEDBDSQKc6dsskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Baseball",03:05 AM - Athletics vs Detroit Tigers [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/athletics-vs-detroit-tigers-baseball-165281/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Athletics vs Detroit Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoN4gQwAAwJtILVhAkQEEDBDSQKc6dsskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Baseball",03:05 AM - Athletics vs Detroit Tigers [Foxtrot] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/68af2ecb7c55cfa436dd9356/1/playlist.m3u8
 #EXTINF:-1 tvg-name="LA Galaxy vs Seattle Sounders FC" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/bfa4a3d15d957fad9bbde32c9bdae16c-thumbnail.jpg" group-title="Football",03:45 AM - LA Galaxy vs Seattle Sounders FC [Admin] - (28/08/2025)
@@ -892,6 +974,8 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Admin/stream/ppv-seattle-sounders-fc-v
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/la-galaxy-vs-seattle-sounders-fc/1/playlist.m3u8
 #EXTINF:-1 tvg-name="LA Galaxy vs Seattle Sounders FC" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/bfa4a3d15d957fad9bbde32c9bdae16c-thumbnail.jpg" group-title="Football",03:45 AM - LA Galaxy vs Seattle Sounders FC [Bravo] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756349100000-los-angeles-galaxy-seattle-sounders/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LA Galaxy vs Seattle Sounders FC" tvg-logo="https://streamed.suhttps://ppv.to/assets/thumb/bfa4a3d15d957fad9bbde32c9bdae16c-thumbnail.jpg" group-title="Football",03:45 AM - LA Galaxy vs Seattle Sounders FC [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/los-angeles-galaxy-vs-seattle-sounders-football-1447009/1/playlist.m3u8
 #EXTINF:-1 tvg-name="World Rally Championship 2025 - Rally de Paraguay" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Motor Sports",06:40 AM - World Rally Championship 2025 - Rally de Paraguay [Delta] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Delta/stream/live-event_world-rally-championship-2025-rally-de-paraguay-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wuhan Open vs Table 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Billiards",07:00 AM - Wuhan Open vs Table 2 [Bravo] - (28/08/2025)
@@ -918,25 +1002,69 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/denmark-vs-kuwait-16294
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/omega-european-masters-first-round-1629458188/1/playlist.m3u8
 #EXTINF:-1 tvg-name="LPGA: FM Championship: Featured Groups (First Round)" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Golf",01:00 PM - LPGA: FM Championship: Featured Groups (First Round) [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/fm-championship-featured-groups-first-round-1629458191/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Israel Basketball vs Iceland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSAFZySMBu6aQJEAYMoQGmCZAoCwXTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",01:00 PM - Israel Basketball vs Iceland Basketball [Alpha] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/israel-vs-iceland/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Israel Basketball vs Iceland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSAFZySMBu6aQJEAYMoQGmCZAoCwXTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",01:00 PM - Israel Basketball vs Iceland Basketball [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/israel-vs-iceland-1629458190/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Israel Basketball vs Iceland Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSAFZySMBu6aQJEAYMoQGmCZAoCwXTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",01:00 PM - Israel Basketball vs Iceland Basketball [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/israel-vs-iceland-basketball-446196/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Georgia Basketball vs Spain Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VelJAwuSHiG4g+IEvtMoQmmKb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Basketball",01:00 PM - Georgia Basketball vs Spain Basketball [Alpha] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/georgia-vs-spain/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Georgia Basketball vs Spain Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VelJAwuSHiG4g+IEvtMoQmmKb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Basketball",01:00 PM - Georgia Basketball vs Spain Basketball [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/georgia-vs-spain-1629458189/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Georgia Basketball vs Spain Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VelJAwuSHiG4g+IEvtMoQmmKb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Basketball",01:00 PM - Georgia Basketball vs Spain Basketball [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/georgia-vs-spain-basketball-446194/1/playlist.m3u8
 #EXTINF:-1 tvg-name="La Vuelta on Eurosport: La Vuelta, Stage 6 + Post Program" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",01:30 PM - La Vuelta on Eurosport: La Vuelta, Stage 6 + Post Program [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/la-vuelta-stage-6-post-program-1629458192/1/playlist.m3u8
+#EXTINF:-1 tvg-name="La Vuelta a Espana: Stage 6" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",01:50 PM - La Vuelta a Espana: Stage 6 [Alpha] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/la-vuelta-a-espana-stage-6/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open: Grandstand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:00 PM - US Open: Grandstand [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/grandstand-1629458194/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Open: Stadium 17" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",04:00 PM - US Open: Stadium 17 [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/stadium-17-1629458200/1/playlist.m3u8
 #EXTINF:-1 tvg-name="KuPS vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBxRpYJCES8QWECRNmUIGJZDUQk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Football",04:00 PM - KuPS vs FC Midtjylland [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/kups-vs-fc-midtjylland-1437233/1/playlist.m3u8
+#EXTINF:-1 tvg-name="KuPS vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBxRpYJCES8QWECRNmUIGJZDUQk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Football",04:00 PM - KuPS vs FC Midtjylland [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/kups-vs-fc-midtjylland-football-1437233/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Belgium Basketball vs France Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcBBC169AAwhuIPiBIGzKEFJAwz8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Basketball",04:00 PM - Belgium Basketball vs France Basketball [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/belgium-vs-france-1629458193/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belgium Basketball vs France Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcBBC169AAwhuIPiBIGzKEFJAwz8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Basketball",04:00 PM - Belgium Basketball vs France Basketball [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/belgium-vs-france-basketball-446192/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bosnia-Herzegovina Basketball vs Cyprus Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLM2L0UlENxB8QJPSZQgpIGCZIFgSCn2GztYFTravy9DaJ1NaYK5iohBAA.webp" group-title="Basketball",04:15 PM - Bosnia-Herzegovina Basketball vs Cyprus Basketball [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/bosnia-herzegovina-vs-cyprus-1629458209/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bosnia-Herzegovina Basketball vs Cyprus Basketball" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLM2L0UlENxB8QJPSZQgpIGCZIFgSCn2GztYFTravy9DaJ1NaYK5iohBAA.webp" group-title="Basketball",04:15 PM - Bosnia-Herzegovina Basketball vs Cyprus Basketball [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/bosnia-herzegovina-vs-cyprus-basketball-446193/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Omonia Nicosia vs Wolfsberger AC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZoskCEEoQvPSBImzBmIbPwWSClhFzGKMKpQ9X5RtTnv8rYDBXcTEIIA.webp" group-title="Football",05:00 PM - Omonia Nicosia vs Wolfsberger AC [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/omonia-nicosia-vs-wolfsberger-ac-football-1438713/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Noah vs Olimpija Ljubljana" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlCwgySYLIgheILSW1mUIGIZAGULJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",05:00 PM - Noah vs Olimpija Ljubljana [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/fc-noah-vs-olimpija-ljubljana-football-1438712/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fredrikstad vs Crystal Palace" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhAxgABhC9yWfSCMkQZsyi3GI5lkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="Football",05:00 PM - Fredrikstad vs Crystal Palace [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/fredrikstad-vs-crystal-palace-football-1438711/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Damac vs Al-Hazm" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",05:05 PM - Damac vs Al-Hazm [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/damac-vs-al-hazm-football-1435913/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sigma Olomouc vs Malmo FF" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsDAotYEKxDUQvEFhAkzFkCBTWTIRfmBIKWEXMbbVKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football",05:30 PM - Sigma Olomouc vs Malmo FF [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/sigma-olomouc-vs-malmo-ff-1436780/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sigma Olomouc vs Malmo FF" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsDAotYEKxDUQvEFhAkzFkCBTWTIRfmBIKWEXMbbVKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football",05:30 PM - Sigma Olomouc vs Malmo FF [Echo] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Echo/stream/sigma-olomouc-vs-malmo-ff-football-1436780/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saratoga Live: Saratoga Live" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Other",06:00 PM - Saratoga Live: Saratoga Live [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/saratoga-live-1629458212/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Samsunspor vs Panathinaikos" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGoh+s3tr7aQWECRNmUIGJcMgWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",06:00 PM - Samsunspor vs Panathinaikos [Charlie] - (28/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/samsunspor-vs-panathinaikos-1437234/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltimore Orioles vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNAwGIXrv1YQJEBBAwQ0kCn0gQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:05 PM - Baltimore Orioles vs Boston Red Sox [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/boston-red-sox-vs-baltimore-orioles-1629458211/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltimore Orioles vs Boston Red Sox" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNAwGIXrv1YQJEBBAwQ0kCn0gQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Baseball",06:05 PM - Baltimore Orioles vs Boston Red Sox [Golf] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Golf/stream/1-boston-red-sox-at-baltimore-orioles/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UEFA Europa League: Ludogorets vs Shkendija" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",06:30 PM - UEFA Europa League: Ludogorets vs Shkendija [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/ludogorets-vs-shkendija-1436783/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PAOK vs Rijeka" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlheIHEmBIQRnVhAkzFlCBjWQ1EChZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Football",06:30 PM - PAOK vs Rijeka [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/paok-vs-hnk-rijeka-1437235/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Southern Brave vs Welsh Fire" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHPTBgkYbmCkhuIAyhAwQFviERWShgsB0x+w2fRRgVKLp-L0sst5MtFqi9GFAA.webp" group-title="Cricket",06:30 PM - Southern Brave vs Welsh Fire [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/southern-brave-w-vs-welsh-fire-w-1629454718/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utrecht vs Zrinjski Mostar" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgQwaZo6aQvEFhAkzFlCBjWQ1MyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",07:00 PM - Utrecht vs Zrinjski Mostar [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/utrecht-vs-zrinjski-1437232/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Young Boys vs Slovan Bratislava" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBy8wY6SDFYQvTftMkQFlCCtXm+YEgpYRcxih0cUPHeUbU5Xvb0YB6MYhBAA.webp" group-title="Football",07:00 PM - Young Boys vs Slovan Bratislava [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/bsc-young-boys-vs-slovan-bratislava-1436785/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dynamo Kyiv vs Maccabi Tel Aviv" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDKN8PdihC8QWTSZIhz+-eZAskFLCLmMUYVSh6vyjanPc76YK7iYhBAA.webp" group-title="Football",07:00 PM - Dynamo Kyiv vs Maccabi Tel Aviv [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/dynamo-kyiv-vs-maccabi-tel-aviv-1436784/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Genk vs Lech Poznań" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBBYQ0sEjAowJELy0hjFkFZQgb22-mD6YAkXMaHVKHkfKNqct6O9GBG4mIQQA.webp" group-title="Football",07:00 PM - Genk vs Lech Poznań [Charlie] - (28/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Charlie/stream/genk-vs-lech-poznan-1436781/1/playlist.m3u8
