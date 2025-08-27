@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Krylia Sovetov Samara vs Dynamo Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",02:15 PM - Krylia Sovetov Samara vs Dynamo Moscow [Bravo] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756300500000-krylya-sovetov-dynamo-moscow/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Alejandro Moro Canas - Genaro Alberto Olivieri" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:10 PM - Alejandro Moro Canas - Genaro Alberto Olivieri [Intel] - (27/08/2025)
+https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/alejandro-moro-canas-genaro-alberto-olivieri/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mi Emirates Development - Dubai Capitals" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Cricket",02:00 PM - Mi Emirates Development - Dubai Capitals [Intel] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Intel/stream/mi-emirates-development-dubai-capitals/1/playlist.m3u8
 #EXTINF:-1 tvg-name="X.Bandurowska/M.Hedrzak - A.Wanja Brune Olsen/A.Firman" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:00 PM - X.Bandurowska/M.Hedrzak - A.Wanja Brune Olsen/A.Firman [Intel] - (27/08/2025)
@@ -258,12 +262,12 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/678fd7a78d98ade1299c326
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/67055bb1e04765cdd3240384/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/darts-tv-all-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
-https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PGA Tour 2025" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2025
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/pga-tour-2025/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",NBC Golf Channel
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/nbc-golf-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
+https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
@@ -300,8 +304,6 @@ https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/espn-first-take/1/playlis
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",NBA TV
 https://rr.buytommy.top/secure/GrYrzMUODC/Foxtrot/stream/6570a866bae85135f61b12d1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Krylia Sovetov Samara vs Dynamo Moscow" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Football",02:15 PM - Krylia Sovetov Samara vs Dynamo Moscow [Bravo] - (27/08/2025)
-https://rr.buytommy.top/secure/GrYrzMUODC/Bravo/stream/1756300500000-krylya-sovetov-dynamo-moscow/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Challenger: Vacherot Valentin vs Landaluce Martin" tvg-logo="https://streamed.su/api/images/poster/fallback.webp" group-title="Tennis",02:30 PM - ATP Challenger: Vacherot Valentin vs Landaluce Martin [Alpha] - (27/08/2025)
 https://rr.buytommy.top/secure/GrYrzMUODC/Alpha/stream/atp-challenger-vacherot-valentin-vs-landaluce-martin/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Poland Volleyball Women vs Germany Volleyball Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlERxBjCCF4gsIEiGn6QiasZA2SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Other",02:30 PM - Poland Volleyball Women vs Germany Volleyball Women [Alpha] - (27/08/2025)
