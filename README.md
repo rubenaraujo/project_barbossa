@@ -1,4 +1,4 @@
-# project_barbossa
+# Project Barbossa
 
 This project generates an M3U8 playlist file (`streamed.m3u8`) from live match data fetched from streamed.
 
